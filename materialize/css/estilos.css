@@ -11,3 +11,29 @@
 #dropdown-perfil{
 	top:63px !important;
 }
+
+.parallax-title{
+	margin-top: 160px;
+}
+
+.imagem-card{
+
+	width: 100%;
+
+}
+
+.no-space-row{
+
+	margin-bottom: 0 !important; 
+}
+
+.add-btn-flt{
+
+}
+
+.imagem-card{
+
+	max-width:100%;
+	width: 300px;
+	height: 250px;
+}
